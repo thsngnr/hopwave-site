@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="demo1" group-title="Demo Live",Demo Channel 1 (Apple sample HLS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="demo2" group-title="Demo Live",Demo Channel 2 (Apple sample HLS 16:9)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="demo3" group-title="Demo Live",Demo Channel 3 (Apple sample HLS, Dolby Vision)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/adv_dv_atmos/main.m3u8
+#EXTINF:-1 group-title="Demo Movies",Big Buck Bunny (open movie, test stream)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
